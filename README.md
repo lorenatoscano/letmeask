@@ -22,7 +22,7 @@
 </p>
 
 ## Sobre
-Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat. Consiste numa plataforma para criar salas de Q&A (perguntas e respostas).
+Projeto desenvolvido durante a Next Level Week #6 da [Rocketseat](https://rocketseat.com.br/). Consiste numa plataforma para criar salas de Q&A (perguntas e respostas).
 
 
 ### Acesse os templates no Figma:
@@ -37,6 +37,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 
 
