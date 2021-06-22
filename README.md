@@ -55,7 +55,7 @@ $ cd letmeask
 $ yarn install
 
 # Execute a aplicação
-$ yarn dev
+$ yarn start
 ```
 
 Acesse em seu navegador http://localhost:3000/ para ver o resultado.
