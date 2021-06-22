@@ -22,7 +22,7 @@
 </p>
 
 ## Sobre
-Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat. Consiste numa plataforma para gerenciar/fazer perguntas numa sala temporária.
+Projeto desenvolvido durante a Next Level Week #6 da @Rocketseat. Consiste numa plataforma para criar salas de Q&A (perguntas e respostas).
 
 
 ### Acesse os templates no Figma:
