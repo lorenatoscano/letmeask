@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://github.com/lorenatoscano/letmeask/blob/main/README-en.md">English</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/lorenatoscano/letmeask/blob/main/README-ptbr.md">Português (Brasil)</a>
+</p>
+<hr>
+
+<p align="center">
    <img src="./.github/logo.svg" alt="letmeask" width="300"/>
 </p>
 
