@@ -28,7 +28,7 @@
 </p>
 
 ## About
-This project was developed during [Rocketseat's](https://rocketseat.com.br/)  Next Level Week #6. It consists of a platform to create Q&A (Questions & Answers) rooms.
+This project was developed during [Rocketseat](https://rocketseat.com.br/)'s  Next Level Week #6. It consists of a platform to create Q&A (Questions & Answers) rooms.
 
 
 ### Access the project templates in Figma:
@@ -49,7 +49,7 @@ This project was developed using the following technologies:
 
 ## How to run?
 
-Run the commands bellow in your terminal:
+Run the commands below in your terminal:
 
 ```bash
 # Clone the repository
