@@ -108,5 +108,29 @@
     .question-list {
       margin-top: 32px;
     }
+
+    .empty-questions {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      margin-top: 32px;
+
+      h2 {
+        font-family: 'Poppins', sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        color: #29292e;
+      }
+
+      p {
+        font-family: 'Roboto', sans-serif;
+        font-size: 14px;
+        color: #737380;
+        max-width: 300px;
+        text-align: center;
+        line-height: 21px;
+      }
+    }
   }
 }
