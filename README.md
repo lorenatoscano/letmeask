@@ -35,7 +35,11 @@ Projeto desenvolvido durante a Next Level Week #6 da [Rocketseat](https://rocket
 - [Layout Web](https://www.figma.com/file/ITmt54Pz9ssMKU3pRMPHLS/Letmeask-(Copy)?node-id=0%3A1)
 
 ### Acesse a demo:
-(em breve)
+https://letmeask-lorena.web.app/
+
+<p align="center">
+   <img src="./.github/cover.png" alt="letmeask"/>
+</p>
 
 ## Tecnologias utilizadas
 
@@ -66,6 +70,8 @@ $ yarn start
 ```
 
 Acesse em seu navegador http://localhost:3000/ para ver o resultado.
+
+Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/?hl=pt) e um projeto para disponibilizar um Realtime Database.
 
 
 ## Licença e Autora

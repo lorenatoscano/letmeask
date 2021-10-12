@@ -35,7 +35,11 @@ This project was developed during [Rocketseat](https://rocketseat.com.br/)'s  Ne
 - [Web Layout](https://www.figma.com/file/ITmt54Pz9ssMKU3pRMPHLS/Letmeask-(Copy)?node-id=0%3A1)
 
 ### Access the demo:
-(soon)
+https://letmeask-lorena.web.app/
+
+<p align="center">
+   <img src="./.github/cover.png" alt="letmeask"/>
+</p>
 
 ## Used technologies
 
@@ -66,6 +70,8 @@ $ yarn start
 ```
 
 Access http://localhost:3000/ address in your browser to see the results.
+
+Remember that you will need to create an account on [Firebase](https://firebase.google.com/?hl=pt) and a project to make a Realtime Database available.
 
 ## License and Author
 
